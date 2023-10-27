@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\ProjetoC\identidade\obj\Debug\identidade.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoC\identidade\obj\Debug\identidade.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ProjetoC\identidade\bin\Debug\identidade.exe.config
+C:\Users\Aluno\Desktop\ProjetoC\identidade\bin\Debug\identidade.exe
+C:\Users\Aluno\Desktop\ProjetoC\identidade\bin\Debug\identidade.pdb
+C:\Users\Aluno\Desktop\ProjetoC\identidade\obj\Debug\identidade.exe
+C:\Users\Aluno\Desktop\ProjetoC\identidade\obj\Debug\identidade.pdb
